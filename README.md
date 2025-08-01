@@ -58,7 +58,7 @@ The model performs well on both spam and non-spam classes with high precision an
 
 ```bash
 # Clone this repo
-git clone https://github.com/YOUR_USERNAME/spam-tespit-api.git
+git clone https://github.com/mustafaaesen/spam-tespit-api.git
 cd spam-tespit-api
 
 # Create virtual environment
